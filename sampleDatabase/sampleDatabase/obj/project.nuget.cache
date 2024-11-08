@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZqzKvNcUSTc=",
+  "dgSpecHash": "osc58qRBgUk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tommy\\RiderProjects\\sampleDatabase\\sampleDatabase\\sampleDatabase.csproj",
+  "projectFilePath": "C:\\Users\\tommy\\OneDrive\\Desktop\\GetAcademy1\\crud-database-sqlclient\\sampleDatabase\\sampleDatabase\\sampleDatabase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tommy\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\tommy\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

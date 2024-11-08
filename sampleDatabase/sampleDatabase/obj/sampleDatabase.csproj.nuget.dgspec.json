@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tommy\\RiderProjects\\sampleDatabase\\sampleDatabase\\sampleDatabase.csproj": {}
+    "C:\\Users\\tommy\\OneDrive\\Desktop\\GetAcademy1\\crud-database-sqlclient\\sampleDatabase\\sampleDatabase\\sampleDatabase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tommy\\RiderProjects\\sampleDatabase\\sampleDatabase\\sampleDatabase.csproj": {
+    "C:\\Users\\tommy\\OneDrive\\Desktop\\GetAcademy1\\crud-database-sqlclient\\sampleDatabase\\sampleDatabase\\sampleDatabase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tommy\\RiderProjects\\sampleDatabase\\sampleDatabase\\sampleDatabase.csproj",
+        "projectUniqueName": "C:\\Users\\tommy\\OneDrive\\Desktop\\GetAcademy1\\crud-database-sqlclient\\sampleDatabase\\sampleDatabase\\sampleDatabase.csproj",
         "projectName": "sampleDatabase",
-        "projectPath": "C:\\Users\\tommy\\RiderProjects\\sampleDatabase\\sampleDatabase\\sampleDatabase.csproj",
+        "projectPath": "C:\\Users\\tommy\\OneDrive\\Desktop\\GetAcademy1\\crud-database-sqlclient\\sampleDatabase\\sampleDatabase\\sampleDatabase.csproj",
         "packagesPath": "C:\\Users\\tommy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tommy\\RiderProjects\\sampleDatabase\\sampleDatabase\\obj\\",
+        "outputPath": "C:\\Users\\tommy\\OneDrive\\Desktop\\GetAcademy1\\crud-database-sqlclient\\sampleDatabase\\sampleDatabase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tommy\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\tommy\\.dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

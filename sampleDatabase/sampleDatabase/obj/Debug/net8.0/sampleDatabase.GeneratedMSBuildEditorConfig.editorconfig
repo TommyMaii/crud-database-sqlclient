@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = sampleDatabase
-build_property.ProjectDir = C:\Users\tommy\RiderProjects\sampleDatabase\sampleDatabase\
+build_property.ProjectDir = C:\Users\tommy\OneDrive\Desktop\GetAcademy1\crud-database-sqlclient\sampleDatabase\sampleDatabase\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
